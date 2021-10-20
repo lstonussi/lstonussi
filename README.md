@@ -3,7 +3,7 @@
 - 📫 How to reach me: lucastonussi@gmail.com
  <div>
   <a href="https://github.com/lstonussi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lstonussi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lstonussi&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lstonussi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
