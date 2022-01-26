@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning about flutter
+- 🔭 I’m currently working with flutter/dart
 - 📫 How to reach me: lucastonussi@gmail.com
  <div>
   <a href="https://github.com/lstonussi">
